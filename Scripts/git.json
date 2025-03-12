@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Product_Categories.csv",
+        "p_sink_folder" : "AW_Product_Categories",
+        "p_sink_file" : "AW_Product_Categories.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Calendar.csv",
+        "p_sink_folder" : "AW_Calendar",
+        "p_sink_file" : "AW_Calendar.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Customers.csv",
+        "p_sink_folder" : "AW_Customers",
+        "p_sink_file" : "AW_Customers.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Product_Subcategories.csv",
+        "p_sink_folder" : "Product_Subcategories",
+        "p_sink_file" : "AW_Product_Subcategories.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Products.csv",
+        "p_sink_folder" : "AW_Products",
+        "p_sink_file" : "AW_Products.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Returns.csv",
+        "p_sink_folder" : "AW_Returns",
+        "p_sink_file":"AW_Returns.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Sales_2015.csv",
+        "p_sink_folder" : "AW_Sales_2015",
+        "p_sink_file" : "AW_Sales_2015.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Sales_2016.csv",
+        "p_sink_folder" : "AW_Sales_2016",
+        "p_sink_file" : "AW_Sales_2016.cvsv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Sales_2017.csv",
+        "p_sink_folder" : "AW_Sales_2017",
+        "p_sink_file" : "AW_Sales_2017.csv"
+    },
+    {
+        "p_rel_url" : "dev-vasi/AzureDE-Project-AW/main/Data/AW_Territories.csv",
+        "p_sink_folder" : "AW_Territories",
+        "p_sink_file" : "AW_Territories.csv"
+    }
+]
